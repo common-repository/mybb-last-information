@@ -1,0 +1,264 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mybblastinfo\n"
+"POT-Creation-Date: 2015-10-06 16:17+0330\n"
+"PO-Revision-Date: 2015-10-06 16:21+0330\n"
+"Last-Translator: \n"
+"Language-Team: Mostafa Shiraali <admin@ctboard.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: mybblastinfo.php:184 mybblastinfo.php:571 mybblastinfo.php:572
+msgid "Mybb Last Information"
+msgstr "آخرین اطلاعات انجمن ساز مای بی بی "
+
+#: mybblastinfo.php:184
+msgid "Mybb Info"
+msgstr "اطلاعات مای بی بی"
+
+#: mybblastinfo.php:190
+msgid "Mybb Last Information Options"
+msgstr ""
+"تنظیمات آخرین اطلاعات مای بی بی (ساخته شده توسط <a href=\"http://ctboard.com"
+"\" target=\"_blank\">Mostafa</a> ) "
+
+#: mybblastinfo.php:195
+msgid "Host of Mybb"
+msgstr "هاست مای بی بی"
+
+#: mybblastinfo.php:199
+msgid "Database name"
+msgstr "نام پایگاه داده"
+
+#: mybblastinfo.php:203
+msgid "Database Username"
+msgstr "نام کاربر پایگاه داده"
+
+#: mybblastinfo.php:207
+msgid "Database Password"
+msgstr "رمز عبور پایگاه داده"
+
+#: mybblastinfo.php:211
+msgid "Mybb Table Prefix"
+msgstr "پیشوند جدول های مای بی بی"
+
+#: mybblastinfo.php:216
+msgid "Last Post Items Number"
+msgstr "تعداد آیتم های آخرین ارسال ها"
+
+#: mybblastinfo.php:217
+msgid "Insert Number of Last Post Items"
+msgstr "تعداد آیتم های آخرین ارسال ها را وارد نمایید"
+
+#: mybblastinfo.php:221
+msgid "Last Users Items Number"
+msgstr "تعداد آیتم های آخرین کاربران"
+
+#: mybblastinfo.php:222
+msgid "Insert Number of Last Users Items"
+msgstr "تعداد آیتم های آخرین کاربران را وارد نمایید"
+
+#: mybblastinfo.php:226
+msgid "Most View Items Number"
+msgstr "تعداد آیتم های بیشترین بازدیدها"
+
+#: mybblastinfo.php:227
+msgid "Insert Number of Most View Items"
+msgstr "تعداد آیتم های بیشترین بازدیدها را وارد نمایید"
+
+#: mybblastinfo.php:231
+msgid "Hot Topics Items Number"
+msgstr "تعداد آیتم های داغ ترین موضوعات"
+
+#: mybblastinfo.php:232
+msgid "Insert Number of Hot Topics Items"
+msgstr "تعداد آیتم های داغ ترین موضوعات را وارد نمایید"
+
+#: mybblastinfo.php:236
+msgid "Top Reputation Items Number"
+msgstr "تعداد آیتم های بیشترین اعتبار"
+
+#: mybblastinfo.php:237
+msgid "Insert Number of Top Reputation Items"
+msgstr "تعداد آیتم های بیشترین اعتبار را وارد نمایید"
+
+#: mybblastinfo.php:241
+msgid "Top Files Items Number"
+msgstr "تعداد آیتم های برترین فایل ها"
+
+#: mybblastinfo.php:242
+msgid "Insert Number of Top Files Items"
+msgstr "تعداد آیتم های برترین فایل ها را وارد نمایید"
+
+#: mybblastinfo.php:246
+msgid "Top Writer Items Number"
+msgstr "تعداد آیتم های برترین ارسال کنندگان"
+
+#: mybblastinfo.php:247
+msgid "Insert Number of Top Writer Items"
+msgstr "تعداد آیتم های برترین ارسال کنندگان را وارد کنید"
+
+#: mybblastinfo.php:251
+msgid "Top Reffer Items Number"
+msgstr "تعداد آیتم های برترین ارجاع دهنده ها"
+
+#: mybblastinfo.php:252
+msgid "Insert Number of Top Reffer Items"
+msgstr "تعداد آیتم های برترین ارجاع دهنده ها را وارد نمایید"
+
+#: mybblastinfo.php:257
+msgid "Post Title Characters"
+msgstr "کارکترهای عنوان ارسال"
+
+#: mybblastinfo.php:258
+msgid "Insert Number of Post Title Characters"
+msgstr "تعداد کارکتر عنوان مطالب را وارد کنید"
+
+#: mybblastinfo.php:262
+msgid "File Title Characters"
+msgstr "کارکتر های عنوان فایل"
+
+#: mybblastinfo.php:263
+msgid "Insert Number of File Title Characters"
+msgstr "تعداد کارکترهای نام فایل وارد کنید"
+
+#: mybblastinfo.php:267 mybblastinfo.php:532
+msgid "Forum Statistics"
+msgstr "آمار انجمن"
+
+#: mybblastinfo.php:268
+msgid "Do You Want Show Forum Statistics?"
+msgstr "آیا می خواهید آمار انجمن نمایش داده شوند؟"
+
+#: mybblastinfo.php:272
+msgid "Last Posts"
+msgstr "آخرین ارسال ها"
+
+#: mybblastinfo.php:273
+msgid "Do You Want Show Last Mybb Posts?"
+msgstr "آیا می خواهید آخرین ارسال های مای بی بی نمایش داده شود؟"
+
+#: mybblastinfo.php:277
+msgid "Last Users"
+msgstr "آخرین کاربران"
+
+#: mybblastinfo.php:278
+msgid "Do You Want Show Last Mybb Users?"
+msgstr "آیا می خواهید آخرین کاربران مای بی بی نمایش داده شود؟"
+
+#: mybblastinfo.php:282
+msgid "Most Viewed Posts"
+msgstr "پربازدیدترین ارسال ها"
+
+#: mybblastinfo.php:283
+msgid "Do You Want Show Most Viewed Posts?"
+msgstr "آیا می خواهید پربازدیدترین مطالب نمایش داده شود؟"
+
+#: mybblastinfo.php:288
+msgid "Most Popular Topics"
+msgstr "داغ ترین موضوعات"
+
+#: mybblastinfo.php:289
+msgid "Do You Want Show Most Popular Topic?"
+msgstr "آیا می خواهید داغ ترین موضوعات نمایش داده شوند؟"
+
+#: mybblastinfo.php:293 mybblastinfo.php:538
+msgid "Top Reputation"
+msgstr "بیشترین اعتبار"
+
+#: mybblastinfo.php:294
+msgid "Do You Want Show Top Reputation?"
+msgstr "آیا می خواهید کاربران با بالاترین اعتبار نمایش داده شود؟"
+
+#: mybblastinfo.php:298 mybblastinfo.php:539
+msgid "Top Files"
+msgstr "برترین فایل ها"
+
+#: mybblastinfo.php:299
+msgid "Do You Want Show Top Files?"
+msgstr "آیا می خواهید برترین فایل ها نمایش داده شوند؟"
+
+#: mybblastinfo.php:303
+msgid "Top Posters"
+msgstr "برترین ارسال کنندگان"
+
+#: mybblastinfo.php:304
+msgid "Do You Want Show Top Posters?"
+msgstr "آیا می خواهید برترین ارسال کنندگان نمایش داده شوند؟"
+
+#: mybblastinfo.php:308 mybblastinfo.php:540
+msgid "Top Reffer"
+msgstr "برترین معرف ها"
+
+#: mybblastinfo.php:309
+msgid "Do You Want Show Top Reffer?"
+msgstr "آیا می خواهید برترین معرف ها نمایش داده شوند؟"
+
+#: mybblastinfo.php:357
+msgid "Members"
+msgstr "کاربران"
+
+#: mybblastinfo.php:358
+msgid "Threads"
+msgstr "موضوعات"
+
+#: mybblastinfo.php:359
+msgid "Posts"
+msgstr "ارسال ها"
+
+#: mybblastinfo.php:360
+msgid "Banned Users"
+msgstr "کاربران محروم"
+
+#: mybblastinfo.php:361
+msgid "User Groups"
+msgstr "گروه های کاربری"
+
+#: mybblastinfo.php:362
+msgid "Forums"
+msgstr "انجمن ها"
+
+#: mybblastinfo.php:363
+msgid "Polls"
+msgstr "نظرسنجی"
+
+#: mybblastinfo.php:533
+msgid "Last Post"
+msgstr "آخرین ارسال ها"
+
+#: mybblastinfo.php:534
+msgid "Last User"
+msgstr "آخرین کاربران"
+
+#: mybblastinfo.php:535
+msgid "Most viewed"
+msgstr "مطالب محبوب"
+
+#: mybblastinfo.php:536
+msgid "Hot Topics"
+msgstr "موضوعات داغ"
+
+#: mybblastinfo.php:537
+msgid "Top posting users"
+msgstr "برترین ارسال کنندگان"
+
+#: mybblastinfo.php:567
+msgid "Title :"
+msgstr "عنوان : "
+
+#~ msgid "Insert Mybb host .Default : localhost"
+#~ msgstr "هاست خود را وارد نمایید (پیشفرض : localhost)"
+
+#~ msgid "Items Number"
+#~ msgstr "تعداد آیتم های اطلاعات"
+
+#~ msgid "Insert Number of Items"
+#~ msgstr "تعداد آیتم های اطلاعات را وارد نمایید"
